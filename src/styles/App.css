@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+}
+
+body{
+  height: 50vh;
+  margin-top: 20%;
+}
+
+h1{
+  display: flex;
+  align-items: center;
+}
+
+
+.main{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+}
+
+.list{
+  display: flex;
+  list-style: none;
+  gap: 50px;
+  align-items: center;
+  margin-left: 10%;
+
+}
+
+a{
+  margin-right: 20px; 
+
+}
+
+button{
+  border-radius: 10px;
+  border: none;
+  margin-right: 20px;
+  width: 100px;
+  padding: 3px;
+  
+}
+
+ul > li{
+  display: flex;
+  align-items: center;
+}
+
+
+
+
+
